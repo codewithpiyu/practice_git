@@ -1,0 +1,78 @@
+[
+    {
+        "title": "Admin Panel",
+        "icon": "bi-house-fill",
+        "childrens": [
+            {
+                "title": "dashboard",
+                "path": "/Dashboard"
+                
+            },
+            {
+                "title": "createExam",
+                "path": "/createExam"
+            },
+           
+            {
+                "title": "AddQuestion",
+                "path": "/AddQuestion"
+            },
+            {
+                "title": "certificate",
+                "path": "/certificate"
+            }
+        ]
+    },
+    {
+        "title": "Batches",
+        "icon": "bi-info-circle-fill",
+        "childrens": [
+            {
+                "title": "Allbatch",
+                "path": "/Allbatch"
+            },
+            {
+                "title": "Addbatch",
+                "path": "/Addbatch"
+            }
+            
+        ]
+    },
+    {
+        "title": "Student",
+        "icon": "bi-person-fill",
+        "childrens": [
+            {
+                "title": "Inquire",
+                "path": "/Inquire"
+            },
+            {
+                "title": "Installment",
+                "path": "/Installment"
+            }
+            ,
+            {
+                "title": "Installment",
+                "path": "/Installment"
+            }
+        
+        ]
+    },
+    {
+        "title": "AddTeachers",
+        "icon": "bi-person-fill",
+        "childrens": [
+            {
+                "title": "teachers",
+                "path": "/teachers"
+            },
+            {
+                "title": "Logout",
+                "path": "/Logout"
+            }
+            
+        
+        ]
+    }
+
+]
